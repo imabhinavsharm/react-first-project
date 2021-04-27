@@ -28,7 +28,7 @@ export const Contact = () => {
                             Let’s begin now
                         </h3>
                         <h2 className="heading-2" style={{ color: "teal" }}> "Coming together is a beginning. Keeping together is progress. Working together is success".
-- Henry Ford, Founder Ford Motor Company</h2>
+- Henry Ford</h2>
                        
                     </div>
                 </div>
@@ -44,7 +44,7 @@ export const Contact = () => {
 
 
 <h2 className="heading-2" style={{ color: "teal", textAlign:"center" }}>
-Request htmlFor service
+Request For service
     </h2>
    
 </div>
@@ -122,7 +122,7 @@ Request htmlFor service
                     
                         <h2 className="heading-2" style={{ color: "teal" }}> <i class="bi bi-envelope-fill"></i> Email Id:<br/><h4>info@InvictusTech.com</h4><br/><br/><i class="bi bi-geo-alt-fill"></i>Office Addresses
                       <br/>  InvictusTech<br/>
-<h4>DG-18-009, Tower B, Emaar Digital Greens, Sector- 61, Gurugram, Haryana 122011 INDIA.</h4></h2>
+<h5>DG-18-009, Tower B, Emaar Digital Greens, Sector- 61, Gurugram, Haryana 122011 INDIA.</h5></h2>
                        
                     </div>
                 </div>

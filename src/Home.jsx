@@ -111,20 +111,20 @@ export const Home = () => {
                     <div className="count col-10 mx-auto  ">
                         <div className="parameters">
                             <h3> Projects</h3>
-                            <p id="count-1" className="counter">0</p>
+                            <p id="count-1" className="counter">1</p>
                         </div>
                         <div className="parameters">
                             <h3> Happy Clients</h3>
-                            <p id="count-2" className="counter">0</p>
+                            <p id="count-2" className="counter">1</p>
                         </div>
                         
                         <div className="parameters">
                             <h3>Countries Served</h3>
-                            <p id="count-3" className="counter">0</p>
+                            <p id="count-3" className="counter">1</p>
                         </div>
                         <div className="parameters">
                             <h3>Year's of Experience</h3>
-                            <p id="count-4" className="counter">0</p>
+                            <p id="count-4" className="counter">1</p>
                         </div>
                     </div>
                         </div>
