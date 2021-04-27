@@ -44,27 +44,27 @@ export const Contact = () => {
 
 
 <h2 className="heading-2" style={{ color: "teal", textAlign:"center" }}>
-Request for service
+Request htmlFor service
     </h2>
    
 </div>
 
         <form>
         <div className="mb-3">
-          <label for="exampleInputEmail1" className="form-label">Full Name</label>
+          <label htmlFor="exampleInputEmail1" className="form-label">Full Name</label>
           <input type="text" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"/>
           
         </div>
         <div className="mb-3">
-          <label for="exampleInputPassword1" className="form-label">Contact Details</label>
+          <label htmlFor="exampleInputPassword1" className="form-label">Contact Details</label>
           <input type="number" className="form-control" id="exampleInputPassword1"/>
         </div>
         <div className="mb-3">
-          <label for="exampleInputPassword1" className="form-label">Business Email</label>
+          <label htmlFor="exampleInputPassword1" className="form-label">Business Email</label>
           <input type="email" className="form-control" id="exampleInputPassword1"/>
         </div>
         <div class="mb-3">
-  <label for="exampleFormControlTextarea1" class="form-label">  Post your querry here</label>
+  <label htmlFor="exampleFormControlTextarea1" class="form-label">  Post your querry here</label>
   <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
 </div>
         
@@ -114,7 +114,7 @@ Request for service
                
                     <div className="col-lg-6 order-1 order-lg-1 img-2 ">
                        
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d14194.144088194536!2d77.93959640000001!3d27.2023159!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1619432418724!5m2!1sen!2sin"width="600" height="350" ></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d14194.144088194536!2d77.93959640000001!3d27.2023159!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1619432418724!5m2!1sen!2sin"width="600" height="350"style={{margin:"auto"}} ></iframe>
                     </div>
                     <div className="col-md-6 pt-5 pt-lg-0 order-2 order-lg-2">
 
